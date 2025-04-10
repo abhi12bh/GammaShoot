@@ -51,10 +51,6 @@ It will display a performance summary and plot the strategy on a chart, overlayi
 - Adjust signal thresholds like `price_move > 0.2` or `abs(price change) < 0.1` to fine-tune sensitivity.
 - You can plug in your own data by editing the `get_db_data()` function.
 
-## 📞 Contact
-
-For further help or strategy development, feel free to reach out.
-
 ---
 
-This strategy is educational and should not be used for live trading without thorough evaluation.
+This strategy is educational and should not be used for live trading without evaluation.
